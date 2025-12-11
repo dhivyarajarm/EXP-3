@@ -43,7 +43,10 @@ Direct connection: CIRCUIT DIAGRAM:
 Tabulation:1
 |NODE|S1|S2|LAMP|
  |----:|----:|----:|----:|
- |1|ON|ON|OFF|
+ |1|ON|ON|ON|
+ |2|ON|OFF|OFF|
+ |3|OFF|ON|OFF|
+ |4|OFF|OFF|OFF|
  
  
 	
