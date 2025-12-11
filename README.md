@@ -41,6 +41,11 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
+|NODE|S1|S2|LAMP|
+ |----:|----:|----:|----:|
+ |1|ON|ON|OFF|
+ 
+ 
 	
 Cross connection: CIRCUIT DIAGRAM:
 
