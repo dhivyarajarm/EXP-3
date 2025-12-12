@@ -1,3 +1,4 @@
+
 # EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
@@ -52,7 +53,7 @@ Tabulation:1
  |4|OFF|OFF|OFF|
 
  |COMPONENTS|PROTEUS|SPECIFICATION|
-  |----:|----:|----:|----:|
+  |----:|----:|----:|
   |AC SUPPLY|VSINE|AMPLITUDE = 230V|
   |TWO-WAY SWITCH|SPDT|FREQUENCY=50HZ|
   |LAMP|ANIMATED|230|
